@@ -1,0 +1,32 @@
+Viewing a diff between two versions of a file helped me see the difference between the files.
+There was a bug in the code because of a typo, and the diff shows you each difference between the files.
+This saves time because you do not have to scroll through and compare each individual line. 
+The command does this work automatically for you so that you only have to search through the differences. 
+The typo was much easier to find this way. 
+
+Easy access to a file's entire history can make me a more efficient programmer. 
+I would know that I can always revert to a previous version of my code. 
+I would not have to worry about manually saving backups of my changes. 
+
+There are pros to manually choosing when to create a commit.  
+You are able to have flexibility with how much you commit. 
+Not as much clutter and the saved versions will be at useful points. 
+There are also cons. 
+You may forget to create a commit while working, defeating the purpose. 
+There are pros to automatically creating commits. 
+The user does not have to remember to create commits. 
+A con, though, is that the commits may not be useful if they were saved in the middle of a line. 
+
+Some version control systems, like Git, allow saving multiple files in one commit.
+Others, like Google Docs, treat each file separately.
+This is because for code multiple files can be related, and changes could affect al files. 
+In Google Docs, most likely each file is an independent entity, so changes probably do not affect other files. 
+
+Git log allows you to view all of the commits. 
+Git diff allows you to compare two commits and see the lines that were added and deleted. 
+Together you can see you file history in a concise and clear manner. 
+
+Version control would make me more confident in writing code that might break something.
+This is because I would always know that I would go back to using previous commits if there is a bug.
+
+I want to try using Git for programs that I write.

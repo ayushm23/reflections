@@ -1,0 +1,2 @@
+When you initialize a repository, it adds a .git file to the directory. 
+This needs to be done so that the metadata for tracking file history can be stored somewhere. 
