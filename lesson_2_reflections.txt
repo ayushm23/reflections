@@ -1,2 +1,9 @@
 When you initialize a repository, it adds a .git file to the directory. 
 This needs to be done so that the metadata for tracking file history can be stored somewhere. 
+
+The working directory contains the files in question. 
+When the repository is created, it has the files from the working directory. 
+However, it contains a .git file in addition. 
+The staging area serves as an in-between.
+You can take files from the working directory and put them in the staging area.
+Then you can decide to make a commit containing those files. 
