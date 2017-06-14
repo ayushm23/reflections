@@ -1,3 +1,15 @@
 You want to use a remote repository to show other people your work. 
 
 You want to pull changes manually because you may not want to update GitHub necessarily each time. 
+
+A branch is a label for a series of commits. 
+A clone is when you make a copy of a repository locally. 
+A fork is when you make a copy of a repository on GitHub. 
+
+Having a copy of the last known state of the remote stored locally is beneficial. 
+It allows you to make edits that can be pushed back onto GitHub. 
+
+Without using Git and GitHub, I would probably use email exchanges to collaborate. 
+Doing this would be easier because it is relatively simple to do. 
+However, it would also complicate things when people make changes and there are multiple versions. 
+It is also harder to keep track of these changes. It is easy to get confused. 
